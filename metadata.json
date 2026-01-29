@@ -1,0 +1,7 @@
+{
+  "description": "LIVO - Uma experiência visual Butterfly Pink para shorts, fotos e vídeos.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "LIVO App"
+}
